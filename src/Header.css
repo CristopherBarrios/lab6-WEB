@@ -1,0 +1,22 @@
+
+body{
+  background-color: #080708;
+}
+.titulo{
+  position: absolute;
+  left: 700px;
+}
+.stiloLetras{
+  font-size: 30px;
+  color: #F6F0ED;
+}
+.reiniciar{
+  position: absolute;
+  left: 1400px;
+  top: 15px;
+}
+.pantalla{
+  width: 100px;
+  height: 200px;
+  background-color: white;
+}

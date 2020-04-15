@@ -1,0 +1,9 @@
+.tablero {
+  display: flex;
+  flex-wrap:wrap;
+  width: 710px;
+  height: 540px;
+  margin: 0 auto;
+   perspective: 1000px;
+  justify-content: space-around;
+}
